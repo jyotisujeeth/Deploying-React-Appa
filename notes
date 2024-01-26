@@ -1,0 +1,14 @@
+Deployment Steps and pitfall
+
+test code perfectly before you deployit
+optimize code thats lazay loding 
+
+build App for production and test code
+
+upload production cade to server (hosting process)
+
+configure server with code 
+
+optimizeation : method:
+
+lazy loading (when the changes requrie only ceration it can be modified )
